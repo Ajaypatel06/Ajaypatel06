@@ -6,8 +6,9 @@ Hi there! I'm Ajay Patel 👋
 
 Detail-oriented Data Analyst with strong analytical and problem-solving skills. Proficient in Python, SQL, and Business Intelligence tools such as Tableau and Power BI. Skilled in handling large datasets, performing data cleaning, wrangling, and visualization to deliver actionable insights. Experienced in conducting data analysis across domains like sales, employee attrition, finance, and supply chain management to support business decision-making.
 
-Core Competencies
-Data Analysis: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
+Core Competencies Data Analysis:
+
+Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
 Visualization Tools: Tableau, Power BI, Excel
 Programming Languages: Python (Pandas, Matplotlib, Seaborn)
 Databases: MySQL, SQL
@@ -17,6 +18,7 @@ KPI Analysis: Sales, Attrition, Financial Health, Supply Chain Optimization
 
 
 Technical Skills
+
 Programming Languages: Python (Pandas, Matplotlib, Seaborn), SQL
 Business Intelligence: Tableau, Power BI, Excel
 Databases: MySQL
