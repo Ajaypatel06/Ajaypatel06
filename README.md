@@ -4,8 +4,47 @@ Hi there! I'm Ajay Patel 👋
 
 📊 About Me
 
- I am a passionate Data Analyst with experience in various domains such as employee performance analysis, sales analytics, customer segmentation, and more. 
-I thrive on turning data into actionable insights and helping businesses make informed decisions.
+Detail-oriented Data Analyst with strong analytical and problem-solving skills. Proficient in Python, SQL, and Business Intelligence tools such as Tableau and Power BI. Skilled in handling large datasets, performing data cleaning, wrangling, and visualization to deliver actionable insights. Experienced in conducting data analysis across domains like sales, employee attrition, finance, and supply chain management to support business decision-making.
+
+Core Competencies
+Data Analysis: Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
+Visualization Tools: Tableau, Power BI, Excel
+Programming Languages: Python (Pandas, Matplotlib, Seaborn)
+Databases: MySQL, SQL
+ETL Processes: Extract, Transform, Load
+Reporting: PowerPoint, Power BI, Tableau Dashboards
+KPI Analysis: Sales, Attrition, Financial Health, Supply Chain Optimization
+
+
+Technical Skills
+Programming Languages: Python (Pandas, Matplotlib, Seaborn), SQL
+Business Intelligence: Tableau, Power BI, Excel
+Databases: MySQL
+Data Analysis Tools: SQL, Python (Pandas), Excel
+Reporting Tools: PowerPoint, Tableau Dashboards
+
+
+Professional Experience
+
+Unified Mentor — Mumbai, Maharashtra
+Data Analyst Intern
+July 2024 – Present
+
+Performed ETL on Amazon sales data and analyzed sales trends by month, year, and region.
+Generated actionable insights to optimize sales strategies and identify seasonal trends using Python, SQL, Tableau, and Power BI.
+Developed interactive dashboards to analyze employee attrition drivers and KPIs, providing strategies to reduce turnover.
+Created a financial health dashboard in Tableau, analyzing revenue, expenses, and key financial ratios for trend forecasting.
+Tools Used: Python (Pandas, Matplotlib, Seaborn), SQL, Tableau, Power BI
+
+
+AI Variant — Mumbai, Maharashtra
+Data Analyst Intern
+December 2022 – June 2023
+
+Analyzed large datasets from Olist and healthcare sectors, identifying KPIs to improve operational performance.
+Developed and maintained Power BI and Tableau dashboards, enhancing data-driven decision-making.
+Conducted in-depth data analysis for business performance optimization.
+Tools Used: Power BI, Tableau, SQL, Excel, Python (Pandas)
 
 
 🔧 Projects
